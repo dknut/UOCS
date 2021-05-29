@@ -1,4 +1,4 @@
-Lab 1 - Node JS
+[Lab 1](https://dknut.github.io/cit281Lab1/) - Node JS
 
 [Lab 2](https://dknut.github.io/cit281Lab2/) - Node Refactoring
 
