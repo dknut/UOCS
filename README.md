@@ -18,15 +18,15 @@ Lab 9 - Github
 
 
 
-Project 1 - Random String
+[Project 1](https://dknut.github.io/cit281Project1/) - Random String
 
-Project 2 - Refactoring
+[Project 2](https://dknut.github.io/cit281Project2/) - Refactoring
 
-Project 3 - Coin Count
+[Project 3](https://dknut.github.io/cit281Project3/) - Coin Count
 
-Project 4 - Data Server
+[Project 4](https://dknut.github.io/cit281Project4/) - Data Server
 
-Project 5 - Monster Game
+[Project 5](https://dknut.github.io/cit281Project5/) - Monster Game
 
-Project 6 - Shape Classes
+[Project 6](https://dknut.github.io/cit281Project6/) - Shape Classes
 
